@@ -1,2 +1,2 @@
 # Intent
-(output.gif)
+![Intent](output.gif)
