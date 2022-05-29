@@ -27,6 +27,7 @@ Button show;
        show.setOnClickListener(new View.OnClickListener() {
            @Override
            public void onClick(View v) {
+               // On click go from currentactivity to anotheractivity 
                Intent i = new Intent(MainActivity.this,activity.class);
                startActivity(i);
            }
